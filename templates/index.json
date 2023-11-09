@@ -1016,6 +1016,7 @@
         "template--16792990679356__b699d1ff-a8be-4570-b5cf-0f32844afaa9-166852981662bb9064-0": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Homepage-sales_CLOSEOUT_SALE.jpg",
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
             "title": "INVENTORY CLOSEOUT UP TO 50% off ON SELECTED ITEMS",
@@ -1209,6 +1210,7 @@
       "type": "newsletter",
       "settings": {
         "reveal_on_scroll": true,
+        "image": "shopify:\/\/shop_images\/SUBSCRIBE_banner_1_2.jpg",
         "subheading": "JOIN THE NATION",
         "content": "<p>Promotions, new products and sales. <\/p>",
         "text_position": "left",
