@@ -10753,7 +10753,7 @@ input:checked + .popover__choice-label::after,
     justify-content: safe center;
   }
 
-  #shopify-section-template--21620141588796__55acfd88-d1ad-43aa-b8b5-72410e61aa77 .list-collections__item-list {
+  #Your-One-Stop-Shop-for-The-Best-Value-on-Outdoor-Apparel .list-collections__item-list {
 /*     grid-template-columns: repeat(auto-fit, calc(100% / 3 - var(--container-gutter) * 2 / 3)); */
     grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: var(--container-gutter);
