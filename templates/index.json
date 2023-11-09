@@ -86,6 +86,8 @@
         "86e3cb87-a111-4128-a63d-7fbc9d748cdf": {
           "type": "image",
           "settings": {
+            "image": "shopify:\/\/shop_images\/Hero_Banner_2.jpg",
+            "split_image": "shopify:\/\/shop_images\/Hero_Banner_Mobile.jpg",
             "text_position": "middle_center",
             "subheading": "",
             "title": "Gear up for your next fall",
@@ -511,6 +513,7 @@
         "template--16734565564732__d17bc8a1-90c8-4217-bbe7-2e96411c390c-16667933406823e3e1-0": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/GUV263075-044SIDE_1.jpg",
             "tab_label": "",
             "subheading": "GILLZ",
             "title": "PRO SERIES Long Sleeve UV",
@@ -522,6 +525,7 @@
         "bb724973-3a48-4ffc-b901-6fa2f8f918b5": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/RUV020144-830_back_2.jpg",
             "tab_label": "REEL LIFE",
             "subheading": "REEL LIFE",
             "title": "Jax Beach collection",
@@ -533,6 +537,7 @@
         "12429ac7-f483-45a6-bd06-30d8d6367788": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/DSC-2_2f78848c-900d-4f5a-8161-418dd2077936.jpg",
             "tab_label": "",
             "subheading": "FINTECH",
             "title": "OUTERWEAR",
@@ -544,6 +549,7 @@
         "c027d0a5-0abd-404e-a276-c8edc220ec28": {
           "type": "item",
           "settings": {
+            "image": "shopify:\/\/shop_images\/unnamed_59694d58-3c70-4ff0-a18a-708af2b393ef.jpg",
             "tab_label": "",
             "subheading": "MAD PELICAN",
             "title": "ESSENTIAL TEES",
@@ -643,6 +649,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify:\/\/shop_images\/Performance_f5db4e62-aa5f-40e6-94c3-eeeeef31baa3.jpg",
             "subheading": "",
             "title": "PERFORMANCE",
             "link_text": "SHOP NOW",
@@ -656,6 +663,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify:\/\/shop_images\/SHORTSLEEVES_c7d032ae-d78f-432d-8070-6be1e238a318.jpg",
             "subheading": "",
             "title": "SHORT SLEEVES",
             "link_text": "SHOP NOW",
@@ -669,6 +677,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify:\/\/shop_images\/LONGSLEEVES_6167a6f6-947a-4c26-b3c2-113c4882dd32.jpg",
             "subheading": "",
             "title": "LONG SLEEVES",
             "link_text": "SHOP NOW",
@@ -682,6 +691,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify:\/\/shop_images\/HOODIES_5461cac3-f01e-4c80-9047-fef173e30f6f.jpg",
             "subheading": "",
             "title": "HOODIES",
             "link_text": "SHOP NOW",
@@ -695,6 +705,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify:\/\/shop_images\/JACKETS_2893e2ef-a578-4b89-ade1-eea00ee193ff.jpg",
             "subheading": "",
             "title": "JACKETS",
             "link_text": "SHOP NOW",
@@ -708,6 +719,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify:\/\/shop_images\/Walkshorts_Boardshorts_Men_c2b41a90-a2bc-4992-9fd5-6ebea703ac4c.jpg",
             "subheading": "",
             "title": "SHORTS",
             "link_text": "SHOP NOW",
@@ -721,6 +733,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify:\/\/shop_images\/PANTS_11dbf1d6-d691-4cee-93cb-55b6e7515f1d.jpg",
             "subheading": "",
             "title": "PANTS",
             "link_text": "SHOP NOW",
@@ -734,6 +747,7 @@
           "type": "collection",
           "settings": {
             "collection": "",
+            "image": "shopify:\/\/shop_images\/ACCESSORIES_76294520-3503-46cd-83c1-1c85f2955ebb.jpg",
             "subheading": "",
             "title": "ACCESSORIES",
             "link_text": "SHOP NOW",
