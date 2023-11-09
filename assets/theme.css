@@ -15082,7 +15082,7 @@ shopify-payment-terms {
 /* NAVBAR SALE LINK COLOR CHANGED TO ORANGE */
 li.header__linklist-item:last-child {
     /* display: none; */
-    color: #f06a21;
+    color: green;
   /* color: #fff; */
 }
 
