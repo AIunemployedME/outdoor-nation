@@ -15330,7 +15330,7 @@ li.header__linklist-item:last-child {
 }
 
 /* BUTTON IMAGE WITH TEXT HOMEPAGE */
-#Your-One-Stop-Shop-for-The-Best-Value-on-Outdoor-Apparel.button-wrapper a {
+#Your-One-Stop-Shop-for-The-Best-Value-on-Outdoor-Apparel .button-wrapper a {
   text-decoration: underline;
   --primary-button-background: transparent;
 }
