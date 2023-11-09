@@ -15082,7 +15082,7 @@ shopify-payment-terms {
 /* NAVBAR SALE LINK COLOR CHANGED TO ORANGE */
 li.header__linklist-item:last-child {
     /* display: none; */
-    color: green;
+    color: #F06A21;
   /* color: #fff; */
 }
 
@@ -15330,7 +15330,7 @@ li.header__linklist-item:last-child {
 }
 
 /* BUTTON IMAGE WITH TEXT HOMEPAGE */
-#shopify-section-template--16792990679356__d17bc8a1-90c8-4217-bbe7-2e96411c390c .button-wrapper a {
+#Your-One-Stop-Shop-for-The-Best-Value-on-Outdoor-Apparel.button-wrapper a {
   text-decoration: underline;
   --primary-button-background: transparent;
 }
@@ -15358,7 +15358,7 @@ li.header__linklist-item:last-child {
     --section-collage-column: 3!important;
 }
 
-#shopify-section-template--16792990679356__d17bc8a1-90c8-4217-bbe7-2e96411c390c span.heading.heading--small {
+#Your-One-Stop-Shop-for-The-Best-Value-on-Outdoor-Apparelspan.heading.heading--small {
     color: white;
 }
 
