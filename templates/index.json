@@ -87,7 +87,7 @@
           "type": "image",
           "settings": {
             "image": "shopify:\/\/shop_images\/Hero_Banner_2.jpg",
-            "split_image": "shopify:\/\/shop_images\/Hero_Banner_Mobile.jpg",
+            "mobile_image": "shopify:\/\/shop_images\/Hero_Banner_Mobile_2.jpg",
             "text_position": "middle_center",
             "subheading": "",
             "title": "Gear up for your next fall",
