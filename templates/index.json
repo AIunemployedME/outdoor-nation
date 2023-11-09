@@ -783,9 +783,12 @@
         "17332e53-a3a9-454f-b789-bb3862161c89",
         "9cee48ce-4186-47b0-99c2-ed9d21b62a2d"
       ],
+      "custom_css": [
+
+      ],
       "settings": {
         "reveal_on_scroll": false,
-        "layout": "collage",
+        "layout": "grid",
         "subheading": "SHOP BY",
         "title": "CATEGORY",
         "background": "#f5f5f5",
