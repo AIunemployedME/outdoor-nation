@@ -1,8 +1,9 @@
+{% assign easylockdownItemSelectorOff = true %}
 {% layout none %}
 {% capture results %}
 
 {% paginate search.results by 50 %} 
-{% for item in search.results %}
+{% for item in search.results %}{% comment %}EasylockdownFilterBegin{% endcomment %}{% capture easylockdownFilter %}{% render 'easylockdown_filter_search' with item, easylockdownRender: true, easylockdownItemSelectorOff: easylockdownItemSelectorOff %}{% endcapture %}{% assign easylockdownFilter = easylockdownFilter | strip %}{% if easylockdownFilter == 'continue' %}{% continue %}{% else %}{{ easylockdownFilter }}{% endif %}{% comment %}EasylockdownFilterEnd{% endcomment %}
 {% assign product = item %}
 {% include 'sca_product' with product %}
 {% assign first_variant = product.selected_or_first_available_variant %}

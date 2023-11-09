@@ -25,7 +25,63 @@ NOTE TO DEVELOPERS: welcome to Focal theme! We hope that you will enjoy editing 
 window.TriplePixelData={TripleName:"outdoor-nation-2022.myshopify.com",ver:"1.9"},function(W,H,A,L,E,_,B,N){function O(U,T,P,H,R){void 0===R&&(R=!1),H=new XMLHttpRequest,P?(H.open("POST",U,!0),H.setRequestHeader("Content-Type","application/json")):H.open("GET",U,!0),H.send(JSON.stringify(P||{})),H.onreadystatechange=function(){4===H.readyState&&200===H.status?(R=H.responseText,U.includes(".txt")?eval(R):P||(N[B]=R)):(299<H.status||H.status<200)&&T&&!R&&(R=!0,O(U,T-1,P))}}if(N=window,!N[H+"sn"]){N[H+"sn"]=1;try{A.setItem(H,1+(0|A.getItem(H)||0)),(E=JSON.parse(A.getItem(H+"U")||"[]")).push(location.href),A.setItem(H+"U",JSON.stringify(E))}catch(e){}var i,m,p;A.getItem('"!nC`')||(_=A,A=N,A[H]||(L=function(){return Date.now().toString(36)+"_"+Math.random().toString(36)},E=A[H]=function(t,e){return"State"==t?E.s:(W=L(),(E._q=E._q||[]).push([W,t,e]),W)},E.s="Installed",E._q=[],E.ch=W,B="configSecurityConfModel",N[B]=1,O("https://conf.config-security.com/model",5),i=L(),m=A[atob("c2NyZWVu")],_.setItem("di_pmt_wt",i),p={id:i,action:"profile",avatar:_.getItem("auth-security_rand_salt_"),time:m[atob("d2lkdGg=")]+":"+m[atob("aGVpZ2h0")],host:A.TriplePixelData.TripleName,url:window.location.href,ref:document.referrer,ver:window.TriplePixelData.ver},O("https://api.config-security.com/",5,p),O("https://triplewhale-pixel.web.app/dot1.9.txt",5)))}}("","TriplePixel",localStorage);
 /* << TriplePixel :: end*/
 </script>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-808854157"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-808854157');
+</script>
+
+
+    
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=AW-808819758"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-808819758');
+</script>
+
+    
+    <meta name="google-site-verification" content="JEdOKIEAgw9dCEVsnNaVLYk_yYBlhwxXDBmBFoh-TYg" />
+    
+<!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-26WZD32DB0"></script>
+    <script>
+      window.dataLayer = window.dataLayer || [];
+      function gtag(){dataLayer.push(arguments);}
+      gtag('js', new Date());
+    
+      gtag('config', 'G-26WZD32DB0');
+    </script>
+
+<!-- Lucky Orange Heatmap tag -->
+<script async defer src="https://tools.luckyorange.com/core/lo.js?site-id=d5a6d67d">
+</script>
+
+<!-- Hotjar Tracking Code for https://outdoornation.com -->
+<script>
+    (function(h,o,t,j,a,r){
+        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
+        h._hjSettings={hjid:3545835,hjsv:6};
+        a=o.getElementsByTagName('head')[0];
+        r=o.createElement('script');r.async=1;
+        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
+        a.appendChild(r);
+    })(window,document,'https://static.hotjar.com/c/hotjar-','.js?sv=');
+</script>
+    
+    
+  {% render 'sizechartsrelentless' %}
+
 {% comment %}EasylockdownHeadBegin{% endcomment %}{% capture elhRender %}{% render 'easylockdown_head', easylockdownRender: true, easylockdownOnlySpecialPriceSelector: easylockdownOnlySpecialPriceSelector, easylockdownCustomPriceSelector: easylockdownCustomPriceSelector %}{% endcapture %}{% assign elhRender = elhRender | split: '--elhResults--'%}{{ elhRender[0] }}{% comment %}EasylockdownHeadEnd{% endcomment %}
+
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0, height=device-height, minimum-scale=1.0, maximum-scale=1.0">
     <meta name="theme-color" content="{{ settings.header_background }}">
@@ -89,7 +145,53 @@ window.TriplePixelData={TripleName:"outdoor-nation-2022.myshopify.com",ver:"1.9"
     <script src="{{ 'custom.js' | asset_url }}" defer></script>
 
     {{ content_for_header }}
-  </head>
+
+  {% include 'bold-common' %}
+
+   {% include 'variable-products-head-template' %}
+   {% include 'scm-product-label-head' %}
+<!--Product-Label script. Don't modify or delete-->
+<script>
+    ;(function() {
+        var pushState = history.pushState;
+        var replaceState = history.replaceState;
+
+        history.pushState = function() {
+            pushState.apply(history, arguments);
+            window.dispatchEvent(new Event('pushstate'));
+            window.dispatchEvent(new Event('locationchange'));
+        };
+
+        history.replaceState = function() {
+            replaceState.apply(history, arguments);
+            window.dispatchEvent(new Event('replacestate'));
+            window.dispatchEvent(new Event('locationchange'));
+        };
+
+        window.addEventListener('popstate', function() {
+            window.dispatchEvent(new Event('locationchange'))
+        });
+    })();
+    window.addEventListener('locationchange', function(){
+        setTimeout(function(){
+            if (typeof SECOMAPP !== "undefined" && typeof SECOMAPP.pl !== "undefined") {
+                SECOMAPP.pl.labelCollections(true);
+            }
+        },1000);
+    })
+    const checkDone = setInterval(function(){
+        if (document.readyState === "complete") {
+            clearInterval(checkDone)
+            setTimeout(function(){
+                if (typeof SECOMAPP !== "undefined" && typeof SECOMAPP.pl !== "undefined") {
+                    SECOMAPP.pl.labelCollections(true);
+                }
+            },1000);
+        }
+    }, 1500);
+</script>
+<!--Product-Label script. Don't modify or delete-->
+</head>
 
   {%- assign feature_classes = '' -%}
 
@@ -112,13 +214,16 @@ window.TriplePixelData={TripleName:"outdoor-nation-2022.myshopify.com",ver:"1.9"
     {%- if request.page_type != 'gift_card' and request.page_type != 'password' -%}
       {%- section 'announcement-bar' -%}
       {%- section 'popup' -%}
+      {%- if customer.tags contains 'wholesale' %}
+        {%- section 'header-wholesale' -%}
+      {%- else -%}
       {%- section 'header' -%}
-
+      {%- endif -%}
       {%- unless settings.cart_type == 'page' or request.page_type == 'cart' -%}
         {%- section 'mini-cart' -%}
       {%- endunless -%}
     {%- endif -%}
-
+          
     <div id="main" role="main" class="anchor">
       {%- comment -%}
       IMPLEMENTATION NOTE: on collection and search page, the theme was designed to show on mobile the filter bar and/or sort
@@ -170,7 +275,76 @@ window.TriplePixelData={TripleName:"outdoor-nation-2022.myshopify.com",ver:"1.9"
     </div>
 
     {%- if request.page_type != 'gift_card' and request.page_type != 'password' -%}
+      {%- if customer.tags contains 'wholesale' %}
+        {%- section 'footer-wholesale' -%}
+      {%- else -%}
       {%- section 'footer' -%}
+      {%- endif -%}
     {%- endif -%}
-  </body>
+    {% if product %}
+      <script>
+window.addEventListener('load', function() {
+var _learnq = window._learnq || [];
+function addedToCart() {
+  fetch(`${window.location.origin}/cart.js`)
+  .then(res => res.clone().json().then(data => {
+    var cart = {
+      total_price: data.total_price/100,
+      $value: data.total_price/100,
+      total_discount: data.total_discount,
+      original_total_price: data.original_total_price/100,
+      items: data.items
+    }
+    if (item !== 'undefined') {
+      cart = Object.assign(cart, item)
+    }
+    if (klAjax) {
+        _learnq.push(['track', 'Added to Cart', cart]);
+        klAjax = false;
+      }
+  }))
+};
+(function (ns, fetch) {
+  ns.fetch = function() {
+    const response = fetch.apply(this, arguments);
+    response.then(res => {
+      if (`${window.location.origin}/cart/add.js`
+      	.includes(res.url)) {
+        	addedToCart()
+      }
+    });
+    return response
+  }
+}(window, window.fetch));
+var klAjax = true;
+var atcButtons = document.querySelectorAll("form[action*='/cart/add'] button[type='submit']");
+for (var i = 0; i < atcButtons.length; i++) {
+    atcButtons[i].addEventListener("click", function() {
+      if (klAjax) {
+        _learnq.push(['track', 'Added to Cart', item]);
+        klAjax = false;
+      }
+    })
+}
+});
+</script>
+      {% endif %}
+    
+
+
+<!-- <script>
+  window.LOQ = window.LOQ || []
+  window.LOQ.push(['ready', async LO => {
+    // Track an event
+    await LO.$internal.ready('events')
+    LO.events.track('My Event')
+    
+    // Or, identify a visitor
+    await LO.$internal.ready('visitor')
+    LO.visitor.identify({ email: '' })
+    }])
+</script>          
+ -->
+          
+</body>
 </html>
