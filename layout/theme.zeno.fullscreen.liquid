@@ -169,7 +169,7 @@ window.TriplePixelData={TripleName:"outdoor-nation-2022.myshopify.com",ver:"1.9"
     {% assign feature_classes = feature_classes | append: ' features--image-zoom' %}
   {%- endif -%}
 
-  <body class="no-focus-outline {{ feature_classes }} {{ page_title }}" data-instant-allow-query-string>
+  <body class="no-focus-outline {{ feature_classes }}" id="{{ page_title }}" data-instant-allow-query-string>
           {{ content_for_layout }}
         </body>
       
