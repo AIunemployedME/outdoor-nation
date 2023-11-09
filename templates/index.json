@@ -1201,20 +1201,6 @@
         "button_background": "#f06a22",
         "button_text_color": "rgba(0,0,0,0)"
       }
-    },
-    "312639b5-e5cb-41ee-bdd4-f1d5b2eb05de": {
-      "type": "newsletter",
-      "settings": {
-        "reveal_on_scroll": true,
-        "subheading": "Subscribe to our newsletter",
-        "content": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
-        "text_position": "right",
-        "text_alignment": "left",
-        "text_background": "rgba(0,0,0,0)",
-        "text_color": "rgba(0,0,0,0)",
-        "button_background": "rgba(0,0,0,0)",
-        "button_text_color": "rgba(0,0,0,0)"
-      }
     }
   },
   "order": [
@@ -1234,7 +1220,6 @@
     "b699d1ff-a8be-4570-b5cf-0f32844afaa9",
     "timeline",
     "3b4d2ba3-8d46-4571-b283-95e3c8f5079b",
-    "d03decf7-f041-4cb7-951e-5a76cee6a74d",
-    "312639b5-e5cb-41ee-bdd4-f1d5b2eb05de"
+    "d03decf7-f041-4cb7-951e-5a76cee6a74d"
   ]
 }
