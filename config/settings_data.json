@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "current": {
     "button_border_radius": 0,
@@ -41,14 +50,14 @@
     "search_enable_collections": true,
     "search_unavailable_products": "hide",
     "cart_type": "drawer",
-    "cart_empty_button_link": "shopify:\/\/collections\/all",
+    "cart_empty_button_link": "shopify://collections/all",
     "cart_show_free_shipping_threshold": true,
     "cart_free_shipping_threshold": "100",
-    "social_facebook": "https:\/\/www.facebook.com\/people\/Go-Outdoor-Nation\/100089781911045\/",
-    "social_instagram": "https:\/\/www.instagram.com\/_outdoornation\/",
-    "social_youtube": "https:\/\/www.youtube.com\/watch?v=V6xR5EFrCXI",
+    "social_facebook": "https://www.facebook.com/people/Go-Outdoor-Nation/100089781911045/",
+    "social_instagram": "https://www.instagram.com/_outdoornation/",
+    "social_youtube": "https://www.youtube.com/watch?v=V6xR5EFrCXI",
     "social_tiktok": "",
-    "favicon": "shopify:\/\/shop_images\/ON_Icon_3e96842f-36f9-4324-9cc6-fe03d61e460e.png",
+    "favicon": "shopify://shop_images/ON_Icon_3e96842f-36f9-4324-9cc6-fe03d61e460e.png",
     "checkout_sidebar_background_color": "#f5f5f5",
     "checkout_accent_color": "#282828",
     "checkout_button_color": "#405de6",
@@ -79,7 +88,7 @@
               "title": "",
               "content": "",
               "button_text": "free shipping",
-              "button_link": "shopify:\/\/collections\/sale-1"
+              "button_link": "shopify://collections/sale"
             }
           },
           "e31a6146-04bc-4da4-a594-07274b867e0b": {
@@ -132,21 +141,21 @@
             "settings": {
               "menu_item": "MEN",
               "images_position": "right",
-              "image_1": "shopify:\/\/shop_images\/M_top-2.jpg",
+              "image_1": "shopify://shop_images/M_top-2.jpg",
               "image_1_heading": "TOPS",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/all-mens-tops",
-              "image_2": "shopify:\/\/shop_images\/M_bottoms-2_8cbefa46-974f-402c-b7a0-8ad0451dc7e0.jpg",
+              "image_1_link": "shopify://collections/all-mens-tops",
+              "image_2": "shopify://shop_images/M_bottoms-2_8cbefa46-974f-402c-b7a0-8ad0451dc7e0.jpg",
               "image_2_heading": "BOTTOMS",
               "image_2_text": "",
-              "image_2_link": "shopify:\/\/collections\/mens-bottoms",
-              "image_3": "shopify:\/\/shop_images\/M_Acce.jpg",
+              "image_2_link": "shopify://collections/mens-bottoms",
+              "image_3": "shopify://shop_images/M_Acce.jpg",
               "image_3_heading": "ACCESSORIES",
               "image_3_text": "",
-              "image_3_link": "shopify:\/\/collections\/accessories",
+              "image_3_link": "shopify://collections/accessories",
               "image_4_heading": "",
               "image_4_text": "",
-              "image_4_link": "shopify:\/\/collections\/uv-bundle",
+              "image_4_link": "shopify://collections/uv-bundle",
               "image_5_heading": "",
               "image_5_text": "",
               "image_5_link": "",
@@ -160,21 +169,21 @@
             "settings": {
               "menu_item": "WOMEN",
               "images_position": "right",
-              "image_1": "shopify:\/\/shop_images\/W_bottoms-2.jpg",
+              "image_1": "shopify://shop_images/W_bottoms-2.jpg",
               "image_1_heading": "TOPS",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/all-womens-tops",
-              "image_2": "shopify:\/\/shop_images\/DSC00733.jpg",
+              "image_1_link": "shopify://collections/all-womens-tops",
+              "image_2": "shopify://shop_images/DSC00733.jpg",
               "image_2_heading": "BOTTOMS",
               "image_2_text": "",
-              "image_2_link": "shopify:\/\/collections\/womens-bottoms",
-              "image_3": "shopify:\/\/shop_images\/W_Acce.jpg",
+              "image_2_link": "shopify://collections/womens-bottoms",
+              "image_3": "shopify://shop_images/W_Acce.jpg",
               "image_3_heading": "ACCESSORIES",
               "image_3_text": "",
-              "image_3_link": "shopify:\/\/collections\/womens-accessories",
+              "image_3_link": "shopify://collections/womens-accessories",
               "image_4_heading": "",
               "image_4_text": "",
-              "image_4_link": "shopify:\/\/collections\/uv-bundle",
+              "image_4_link": "shopify://collections/uv-bundle",
               "image_5_heading": "",
               "image_5_text": "",
               "image_5_link": "",
@@ -188,22 +197,22 @@
             "settings": {
               "menu_item": "Shop by Brand",
               "images_position": "right",
-              "image_1": "shopify:\/\/shop_images\/Gillz_7e3ee24c-9916-4152-9ecd-7958fe441dbd.jpg",
+              "image_1": "shopify://shop_images/Gillz_7e3ee24c-9916-4152-9ecd-7958fe441dbd.jpg",
               "image_1_heading": "",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/gillz",
-              "image_2": "shopify:\/\/shop_images\/Dropdown_manu_Reel_life.jpg",
+              "image_1_link": "shopify://collections/gillz",
+              "image_2": "shopify://shop_images/Dropdown_manu_Reel_life.jpg",
               "image_2_heading": "",
               "image_2_text": "",
-              "image_2_link": "shopify:\/\/collections\/reel-life",
-              "image_3": "shopify:\/\/shop_images\/Fintech_257920a5-742a-4607-a738-0e163b1f5a86.jpg",
+              "image_2_link": "shopify://collections/reel-life",
+              "image_3": "shopify://shop_images/Fintech_257920a5-742a-4607-a738-0e163b1f5a86.jpg",
               "image_3_heading": "",
               "image_3_text": "",
-              "image_3_link": "shopify:\/\/collections\/fintech",
-              "image_4": "shopify:\/\/shop_images\/mad-pelican_DD_menu_brand.jpg",
+              "image_3_link": "shopify://collections/fintech",
+              "image_4": "shopify://shop_images/mad-pelican_DD_menu_brand.jpg",
               "image_4_heading": "",
               "image_4_text": "",
-              "image_4_link": "shopify:\/\/collections\/mad-pelican",
+              "image_4_link": "shopify://collections/mad-pelican",
               "image_5_heading": "",
               "image_5_text": "",
               "image_5_link": "",
@@ -217,22 +226,22 @@
             "settings": {
               "menu_item": "Shop by Activity",
               "images_position": "right",
-              "image_1": "shopify:\/\/shop_images\/nav-beach_62f0fca4-096a-4050-861e-bf8f22819ba2.jpg",
+              "image_1": "shopify://shop_images/nav-beach_62f0fca4-096a-4050-861e-bf8f22819ba2.jpg",
               "image_1_heading": "Beach",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/beach",
-              "image_2": "shopify:\/\/shop_images\/nav-fishing_ee44eb9d-dd6c-42c2-b34c-d8608e2408de.jpg",
+              "image_1_link": "shopify://collections/beach",
+              "image_2": "shopify://shop_images/nav-fishing_ee44eb9d-dd6c-42c2-b34c-d8608e2408de.jpg",
               "image_2_heading": "Fishing",
               "image_2_text": "",
-              "image_2_link": "shopify:\/\/collections\/fishing",
-              "image_3": "shopify:\/\/shop_images\/Nav_On_Site.jpg",
+              "image_2_link": "shopify://collections/fishing",
+              "image_3": "shopify://shop_images/Nav_On_Site.jpg",
               "image_3_heading": "On Site",
               "image_3_text": "",
-              "image_3_link": "shopify:\/\/collections\/onsite",
-              "image_4": "shopify:\/\/shop_images\/Nav_Outdoor.jpg",
+              "image_3_link": "shopify://collections/onsite",
+              "image_4": "shopify://shop_images/Nav_Outdoor.jpg",
               "image_4_heading": "Outdoor",
               "image_4_text": "",
-              "image_4_link": "shopify:\/\/collections\/outdoor",
+              "image_4_link": "shopify://collections/outdoor",
               "image_5_heading": "Shop by Activity",
               "image_5_text": "",
               "image_5_link": "",
@@ -246,14 +255,14 @@
             "settings": {
               "menu_item": "Shop By Category",
               "images_position": "right",
-              "image_1": "shopify:\/\/shop_images\/DSC-6.jpg",
+              "image_1": "shopify://shop_images/DSC-6.jpg",
               "image_1_heading": "MEN'S",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/mens",
-              "image_2": "shopify:\/\/shop_images\/DSC-5_a9ff7397-a14a-4e13-9b53-9578ed15b622.jpg",
+              "image_1_link": "shopify://collections/mens",
+              "image_2": "shopify://shop_images/DSC-5_a9ff7397-a14a-4e13-9b53-9578ed15b622.jpg",
               "image_2_heading": "WOMEN'S",
               "image_2_text": "",
-              "image_2_link": "shopify:\/\/collections\/womens",
+              "image_2_link": "shopify://collections/womens",
               "image_3_heading": "",
               "image_3_text": "",
               "image_3_link": "",
@@ -273,22 +282,22 @@
             "settings": {
               "menu_item": "About Us",
               "images_position": "right",
-              "image_1": "shopify:\/\/shop_images\/GILLZ_63e332e1-b47f-459c-90e1-11cc034971a0.jpg",
+              "image_1": "shopify://shop_images/GILLZ_63e332e1-b47f-459c-90e1-11cc034971a0.jpg",
               "image_1_heading": "Gillz",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/pages\/gillz",
-              "image_2": "shopify:\/\/shop_images\/ReelLife_1a253806-1d4d-40f6-83d4-0182817881e0.jpg",
+              "image_1_link": "shopify://pages/gillz",
+              "image_2": "shopify://shop_images/ReelLife_1a253806-1d4d-40f6-83d4-0182817881e0.jpg",
               "image_2_heading": "Reel Life",
               "image_2_text": "",
-              "image_2_link": "shopify:\/\/pages\/reel-life",
-              "image_3": "shopify:\/\/shop_images\/Fintech_48a28582-ac59-48aa-85d0-4b5267e4ff0e.jpg",
+              "image_2_link": "shopify://pages/reel-life",
+              "image_3": "shopify://shop_images/Fintech_48a28582-ac59-48aa-85d0-4b5267e4ff0e.jpg",
               "image_3_heading": "Fintech",
               "image_3_text": "",
-              "image_3_link": "shopify:\/\/pages\/fintech",
-              "image_4": "shopify:\/\/shop_images\/mad-pelican_DD_menu.jpg",
+              "image_3_link": "shopify://pages/fintech",
+              "image_4": "shopify://shop_images/mad-pelican_DD_menu.jpg",
               "image_4_heading": "Mad Pelican",
               "image_4_text": "",
-              "image_4_link": "shopify:\/\/pages\/mad-pelican",
+              "image_4_link": "shopify://pages/mad-pelican",
               "image_5_heading": "",
               "image_5_text": "",
               "image_5_link": "",
@@ -304,11 +313,11 @@
               "images_position": "right",
               "image_1_heading": "",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/uv-bundle",
-              "image_2": "shopify:\/\/shop_images\/Closeout_sales_bae75c66-53c8-44d8-9438-6c6fd8d03734.jpg",
+              "image_1_link": "shopify://collections/uv-bundle",
+              "image_2": "shopify://shop_images/Closeout_sales_bae75c66-53c8-44d8-9438-6c6fd8d03734.jpg",
               "image_2_heading": "CLOSEOUT SALE",
               "image_2_text": "",
-              "image_2_link": "shopify:\/\/collections\/sale-1",
+              "image_2_link": "shopify://collections/sale",
               "image_3_heading": "",
               "image_3_text": "",
               "image_3_link": "",
@@ -335,7 +344,7 @@
         ],
         "settings": {
           "enable_sticky_header": true,
-          "logo": "shopify:\/\/shop_images\/ON_Logo_355x-01-2x.png",
+          "logo": "shopify://shop_images/ON_Logo_355x-01-2x.png",
           "logo_max_width": 250,
           "mobile_logo_max_width": 150,
           "navigation_menu": "main-menu",
@@ -356,7 +365,7 @@
           "44a3c877-8756-40eb-83ea-30d3b3acaa3e": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/Logo-ON-footer.svg",
+              "image": "shopify://shop_images/Logo-ON-footer.svg",
               "image_width": 140
             }
           },
@@ -406,7 +415,7 @@
           "show_locale_selector": true,
           "show_cookie_bar": false,
           "cookie_bar_title": "Cookie policy",
-          "cookie_bar_content": "<p>I agree to the processing of my data in accordance with the conditions set out in the policy of Privacy.<\/p>"
+          "cookie_bar_content": "<p>I agree to the processing of my data in accordance with the conditions set out in the policy of Privacy.</p>"
         }
       },
       "popup": {
@@ -419,7 +428,7 @@
           "show_only_once": true,
           "image_position": "left",
           "title": "Get 10% off",
-          "content": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>"
+          "content": "<p>Promotions, new products and sales. Directly to your inbox.</p>"
         }
       },
       "mini-cart": {
@@ -427,7 +436,7 @@
         "settings": {
           "show_order_note": true,
           "show_checkout_button": true,
-          "empty_button_link": "\/",
+          "empty_button_link": "/",
           "show_recommendations": true,
           "recommendations_title": "You may also like"
         }
@@ -441,7 +450,7 @@
               "icon": "picto-box",
               "custom_icon_width": 50,
               "title": "Free shipping",
-              "content": "<p>Free worldwide shipping and returns - customs and duties taxes included<\/p>"
+              "content": "<p>Free worldwide shipping and returns - customs and duties taxes included</p>"
             }
           },
           "static-text-with-icons-1": {
@@ -450,7 +459,7 @@
               "icon": "picto-phone",
               "custom_icon_width": 50,
               "title": "Customer service",
-              "content": "<p>We are available from monday to friday to answer your questions.<\/p>"
+              "content": "<p>We are available from monday to friday to answer your questions.</p>"
             }
           },
           "static-text-with-icons-2": {
@@ -459,7 +468,7 @@
               "icon": "picto-lock",
               "custom_icon_width": 50,
               "title": "Secure payment",
-              "content": "<p>Your payment information is processed securely.<\/p>"
+              "content": "<p>Your payment information is processed securely.</p>"
             }
           },
           "static-text-with-icons-3": {
@@ -468,7 +477,7 @@
               "icon": "picto-email",
               "custom_icon_width": 50,
               "title": "Contact us",
-              "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com<\/p>"
+              "content": "<p>Need to contact us ? Just send us an e-mail at info@yourstore.com</p>"
             }
           }
         },
@@ -489,9 +498,9 @@
         "settings": {
           "show_section": false,
           "reveal_on_scroll": true,
-          "image": "shopify:\/\/shop_images\/SUBSCRIBE_banner_1_2.jpg",
+          "image": "shopify://shop_images/SUBSCRIBE_banner_1_2.jpg",
           "subheading": "Subscribe to get exclusive offers",
-          "content": "<p>Promotions, new products and sales. Directly to your inbox.<\/p>",
+          "content": "<p>Promotions, new products and sales. Directly to your inbox.</p>",
           "text_position": "left",
           "text_alignment": "left",
           "text_background": "rgba(0,0,0,0)",
@@ -508,22 +517,22 @@
             "settings": {
               "menu_item": "Shop By Brand",
               "images_position": "right",
-              "image_1": "shopify:\/\/shop_images\/Gillz_e6d2b35c-8cc6-4c00-bed0-be53a6801c64.jpg",
+              "image_1": "shopify://shop_images/Gillz_e6d2b35c-8cc6-4c00-bed0-be53a6801c64.jpg",
               "image_1_heading": "",
               "image_1_text": "",
-              "image_1_link": "https:\/\/outdoornation.com\/collections\/order-form?sort_by=title-ascending&filter.p.vendor=Gillz&filter.v.price.gte=&filter.v.price.lte=",
-              "image_2": "shopify:\/\/shop_images\/ReelLife_75c57264-bcdc-4b60-b226-e9315492889c.jpg",
+              "image_1_link": "https://outdoornation.com/collections/order-form?sort_by=title-ascending&filter.p.vendor=Gillz&filter.v.price.gte=&filter.v.price.lte=",
+              "image_2": "shopify://shop_images/ReelLife_75c57264-bcdc-4b60-b226-e9315492889c.jpg",
               "image_2_heading": "",
               "image_2_text": "",
-              "image_2_link": "https:\/\/outdoornation.com\/collections\/order-form?sort_by=title-ascending&filter.p.vendor=Reel+Life&filter.v.price.gte=&filter.v.price.lte=",
-              "image_3": "shopify:\/\/shop_images\/Fintech_51f79d9f-fcb2-4753-a011-7c6785230e0e.jpg",
+              "image_2_link": "https://outdoornation.com/collections/order-form?sort_by=title-ascending&filter.p.vendor=Reel+Life&filter.v.price.gte=&filter.v.price.lte=",
+              "image_3": "shopify://shop_images/Fintech_51f79d9f-fcb2-4753-a011-7c6785230e0e.jpg",
               "image_3_heading": "",
               "image_3_text": "",
-              "image_3_link": "https:\/\/outdoornation.com\/collections\/order-form?sort_by=title-ascending&filter.p.vendor=Fintech&filter.v.price.gte=&filter.v.price.lte=",
-              "image_4": "shopify:\/\/shop_images\/MadPelican_339ff002-3cd3-4eca-9c8f-16fa0d621e3a.jpg",
+              "image_3_link": "https://outdoornation.com/collections/order-form?sort_by=title-ascending&filter.p.vendor=Fintech&filter.v.price.gte=&filter.v.price.lte=",
+              "image_4": "shopify://shop_images/MadPelican_339ff002-3cd3-4eca-9c8f-16fa0d621e3a.jpg",
               "image_4_heading": "",
               "image_4_text": "",
-              "image_4_link": "https:\/\/outdoornation.com\/collections\/order-form?sort_by=title-ascending",
+              "image_4_link": "https://outdoornation.com/collections/order-form?sort_by=title-ascending",
               "image_5_heading": "",
               "image_5_text": "",
               "image_5_link": "",
@@ -537,14 +546,14 @@
             "settings": {
               "menu_item": "Shop By Category",
               "images_position": "right",
-              "image_1": "shopify:\/\/shop_images\/DSC-6_b873d0af-5479-4627-b90f-f6dc6c261d48.jpg",
+              "image_1": "shopify://shop_images/DSC-6_b873d0af-5479-4627-b90f-f6dc6c261d48.jpg",
               "image_1_heading": "Men's",
               "image_1_text": "",
-              "image_1_link": "https:\/\/outdoornation.com\/collections\/order-form?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Mens",
-              "image_2": "shopify:\/\/shop_images\/DSC-5_a9ff7397-a14a-4e13-9b53-9578ed15b622.jpg",
+              "image_1_link": "https://outdoornation.com/collections/order-form?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Mens",
+              "image_2": "shopify://shop_images/DSC-5_a9ff7397-a14a-4e13-9b53-9578ed15b622.jpg",
               "image_2_heading": "Women's",
               "image_2_text": "",
-              "image_2_link": "https:\/\/outdoornation.com\/collections\/order-form?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Womens",
+              "image_2_link": "https://outdoornation.com/collections/order-form?sort_by=best-selling&filter.v.price.gte=&filter.v.price.lte=&filter.p.tag=Womens",
               "image_3_heading": "",
               "image_3_text": "",
               "image_3_link": "",
@@ -564,22 +573,22 @@
             "settings": {
               "menu_item": "SHOP BY ACTIVITY",
               "images_position": "right",
-              "image_1": "shopify:\/\/shop_images\/nav-beach_6bc284fd-0289-4d7c-9769-6c4dfa19f896.jpg",
+              "image_1": "shopify://shop_images/nav-beach_6bc284fd-0289-4d7c-9769-6c4dfa19f896.jpg",
               "image_1_heading": "BEACH",
               "image_1_text": "",
-              "image_1_link": "shopify:\/\/collections\/beach-wholesale",
-              "image_2": "shopify:\/\/shop_images\/nav-fishing_465da0e1-63a8-409e-b4db-1d4b544fb562.jpg",
+              "image_1_link": "shopify://collections/beach-wholesale",
+              "image_2": "shopify://shop_images/nav-fishing_465da0e1-63a8-409e-b4db-1d4b544fb562.jpg",
               "image_2_heading": "FISHING",
               "image_2_text": "",
-              "image_2_link": "shopify:\/\/collections\/fishing-wholesale",
-              "image_3": "shopify:\/\/shop_images\/Nav_On_Site_acf8cea8-fec6-4d8f-adc9-2aeb21aaff70.jpg",
+              "image_2_link": "shopify://collections/fishing-wholesale",
+              "image_3": "shopify://shop_images/Nav_On_Site_acf8cea8-fec6-4d8f-adc9-2aeb21aaff70.jpg",
               "image_3_heading": "ON SITE",
               "image_3_text": "",
-              "image_3_link": "shopify:\/\/collections\/on-site-wholesale",
-              "image_4": "shopify:\/\/shop_images\/Nav_Outdoor_edfb04d9-a19f-4b01-89c0-e92b945d6021.jpg",
+              "image_3_link": "shopify://collections/on-site-wholesale",
+              "image_4": "shopify://shop_images/Nav_Outdoor_edfb04d9-a19f-4b01-89c0-e92b945d6021.jpg",
               "image_4_heading": "OUTDOOR",
               "image_4_text": "",
-              "image_4_link": "shopify:\/\/collections\/outdoor-wholesale",
+              "image_4_link": "shopify://collections/outdoor-wholesale",
               "image_5_heading": "",
               "image_5_text": "",
               "image_5_link": "",
@@ -616,7 +625,7 @@
           "6152c47e-8027-440d-8c25-2a6d6e66cf0f": {
             "type": "image",
             "settings": {
-              "image": "shopify:\/\/shop_images\/ON_Logo.svg",
+              "image": "shopify://shop_images/ON_Logo.svg",
               "image_width": 300
             }
           },
@@ -632,7 +641,7 @@
             "disabled": true,
             "settings": {
               "title": "About our store",
-              "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.<\/p>"
+              "content": "<p>Use this text area to tell your customers about your brand and vision. You can change it in the theme editor.</p>"
             }
           },
           "footer-wholesale-3": {
@@ -655,23 +664,21 @@
           "show_locale_selector": true,
           "show_cookie_bar": false,
           "cookie_bar_title": "Cookie policy",
-          "cookie_bar_content": "<p>I agree to the processing of my data in accordance with the conditions set out in the policy of Privacy.<\/p>"
+          "cookie_bar_content": "<p>I agree to the processing of my data in accordance with the conditions set out in the policy of Privacy.</p>"
         }
       }
     },
-    "content_for_index": [
-
-    ],
+    "content_for_index": [],
     "blocks": {
       "733389323033596483": {
-        "type": "shopify:\/\/apps\/okendo-product-reviews-ugc\/blocks\/theme-settings\/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
+        "type": "shopify://apps/okendo-product-reviews-ugc/blocks/theme-settings/bb689e69-ea70-4661-8fb7-ad24a2e23c29",
         "disabled": false,
         "settings": {
           "show_preview_data": false
         }
       },
       "15885745614559378752": {
-        "type": "shopify:\/\/apps\/accessibly\/blocks\/app-embed\/4b59303e-1141-4c8a-945f-bf4adb516864",
+        "type": "shopify://apps/accessibly/blocks/app-embed/4b59303e-1141-4c8a-945f-bf4adb516864",
         "disabled": false,
         "settings": {
           "themeColor": "#574CD5",
@@ -685,16 +692,14 @@
         }
       },
       "855628211100114053": {
-        "type": "shopify:\/\/apps\/klaviyo-email-marketing-sms\/blocks\/klaviyo-onsite-embed\/2632fe16-c075-4321-a88b-50b567f42507",
+        "type": "shopify://apps/klaviyo-email-marketing-sms/blocks/klaviyo-onsite-embed/2632fe16-c075-4321-a88b-50b567f42507",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       },
       "12657775114333427046": {
-        "type": "shopify:\/\/apps\/essential-countdown-timer-bar\/blocks\/app_embed\/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
+        "type": "shopify://apps/essential-countdown-timer-bar/blocks/app_embed/722378e8-5a70-4eae-aa89-9e44e8e9f6de",
         "disabled": false,
-        "settings": {
-        }
+        "settings": {}
       }
     }
   },
@@ -744,8 +749,7 @@
           "blocks": {
             "message-1": {
               "type": "message",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -779,8 +783,7 @@
           "blocks": {
             "text": {
               "type": "text",
-              "settings": {
-              }
+              "settings": {}
             },
             "links": {
               "type": "links",
@@ -790,13 +793,11 @@
             },
             "newsletter": {
               "type": "newsletter",
-              "settings": {
-              }
+              "settings": {}
             },
             "social_media": {
               "type": "social_media",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -805,8 +806,7 @@
             "newsletter",
             "social_media"
           ],
-          "settings": {
-          }
+          "settings": {}
         }
       }
     },
@@ -854,8 +854,7 @@
           "blocks": {
             "message-1": {
               "type": "message",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -889,8 +888,7 @@
           "blocks": {
             "text": {
               "type": "text",
-              "settings": {
-              }
+              "settings": {}
             },
             "links": {
               "type": "links",
@@ -900,13 +898,11 @@
             },
             "newsletter": {
               "type": "newsletter",
-              "settings": {
-              }
+              "settings": {}
             },
             "social_media": {
               "type": "social_media",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -915,8 +911,7 @@
             "newsletter",
             "social_media"
           ],
-          "settings": {
-          }
+          "settings": {}
         }
       }
     },
@@ -969,8 +964,7 @@
           "blocks": {
             "message-1": {
               "type": "message",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -1004,8 +998,7 @@
           "blocks": {
             "text": {
               "type": "text",
-              "settings": {
-              }
+              "settings": {}
             },
             "links": {
               "type": "links",
@@ -1015,13 +1008,11 @@
             },
             "newsletter": {
               "type": "newsletter",
-              "settings": {
-              }
+              "settings": {}
             },
             "social_media": {
               "type": "social_media",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -1030,8 +1021,7 @@
             "newsletter",
             "social_media"
           ],
-          "settings": {
-          }
+          "settings": {}
         }
       }
     },
@@ -1081,8 +1071,7 @@
           "blocks": {
             "message-1": {
               "type": "message",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -1116,8 +1105,7 @@
           "blocks": {
             "text": {
               "type": "text",
-              "settings": {
-              }
+              "settings": {}
             },
             "links": {
               "type": "links",
@@ -1127,13 +1115,11 @@
             },
             "newsletter": {
               "type": "newsletter",
-              "settings": {
-              }
+              "settings": {}
             },
             "social_media": {
               "type": "social_media",
-              "settings": {
-              }
+              "settings": {}
             }
           },
           "block_order": [
@@ -1142,8 +1128,7 @@
             "newsletter",
             "social_media"
           ],
-          "settings": {
-          }
+          "settings": {}
         }
       }
     }

@@ -1,3 +1,12 @@
+/*
+ * ------------------------------------------------------------
+ * IMPORTANT: The contents of this file are auto-generated.
+ *
+ * This file may be updated by the Shopify admin theme editor
+ * or related systems. Please exercise caution as any changes
+ * made to this file may be overwritten.
+ * ------------------------------------------------------------
+ */
 {
   "sections": {
     "slideshow": {
@@ -12,9 +21,9 @@
             "title": "shop our end of summer sale and get 30% OFF SITEWIDE",
             "content": "",
             "button_1_text": "SHOP NOW",
-            "button_1_link": "shopify:\/\/collections\/all",
+            "button_1_link": "shopify://collections/all",
             "button_2_text": "",
-            "button_2_link": "shopify:\/\/collections\/all",
+            "button_2_link": "shopify://collections/all",
             "text_color": "#ffffff",
             "button_background": "#f06a22",
             "button_text_color": "#ffffff",
@@ -30,7 +39,7 @@
             "text_position": "middle_right",
             "subheading": "",
             "title": "",
-            "content": "<p>REAL PEOPLE,<\/p><p>REAL ADVENTURES,<\/p><p>ONE NATION.<\/p>",
+            "content": "<p>REAL PEOPLE,</p><p>REAL ADVENTURES,</p><p>ONE NATION.</p>",
             "button_1_text": "",
             "button_1_link": "",
             "button_2_text": "",
@@ -54,7 +63,7 @@
             "button_1_text": "SHOP NOW",
             "button_1_link": "",
             "button_2_text": "",
-            "button_2_link": "shopify:\/\/collections\/all",
+            "button_2_link": "shopify://collections/all",
             "text_color": "#ffffff",
             "button_background": "#f06a22",
             "button_text_color": "#ffffff",
@@ -72,7 +81,7 @@
             "title": "NEW GRAPHIC TEES IN FOUR AMAZING & FRESH COLORS",
             "content": "",
             "button_1_text": "SHOP  NOW",
-            "button_1_link": "shopify:\/\/collections\/rl-featured-new-arrivals",
+            "button_1_link": "shopify://collections/rl-featured-new-arrivals",
             "button_2_text": "",
             "button_2_link": "",
             "text_color": "#ffffff",
@@ -86,14 +95,14 @@
         "86e3cb87-a111-4128-a63d-7fbc9d748cdf": {
           "type": "image",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Hero_Banner_2.jpg",
-            "mobile_image": "shopify:\/\/shop_images\/Hero_Banner_Mobile_2.jpg",
+            "image": "shopify://shop_images/Hero_Banner_2.jpg",
+            "mobile_image": "shopify://shop_images/Hero_Banner_Mobile_2.jpg",
             "text_position": "middle_center",
             "subheading": "",
             "title": "",
             "content": "",
             "button_1_text": "",
-            "button_1_link": "shopify:\/\/collections\/new-arrivals",
+            "button_1_link": "shopify://collections/new-arrivals",
             "button_2_text": "",
             "button_2_link": "",
             "text_color": "#ffffff",
@@ -130,7 +139,7 @@
             "subheading": "",
             "title": "",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/gillz",
+            "link_url": "shopify://collections/gillz",
             "link_style": "link",
             "text_position": "middle_center",
             "background": "#f7f8fd",
@@ -146,7 +155,7 @@
             "subheading": "",
             "title": "",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/reel-life",
+            "link_url": "shopify://collections/reel-life",
             "link_style": "link",
             "text_position": "middle_center",
             "background": "#f7f8fd",
@@ -162,7 +171,7 @@
             "subheading": "",
             "title": "",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/fintech",
+            "link_url": "shopify://collections/fintech",
             "link_style": "link",
             "text_position": "middle_center",
             "background": "#f7f8fd",
@@ -178,7 +187,7 @@
             "subheading": "",
             "title": "",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/mad-pelican",
+            "link_url": "shopify://collections/mad-pelican",
             "link_style": "link",
             "text_position": "middle_center",
             "background": "#f7f8fd",
@@ -195,9 +204,7 @@
         "bff8ac7b-3e30-4796-af8f-87eb3c962aba"
       ],
       "disabled": true,
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "subheading": "shop by",
         "title": "Brand",
@@ -213,7 +220,7 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "html": "<p style=\"text-align: center; margin: 50px 0;\"><\/p>",
+        "html": "<p style=\"text-align: center; margin: 50px 0;\"></p>",
         "add_vertical_spacing": true,
         "background_type": "full_width",
         "background": "rgba(0,0,0,0)",
@@ -273,7 +280,7 @@
       "settings": {
         "subheading": "SHOP",
         "title": "",
-        "content": "<p><a href=\"\/collections\/new-arrivals\" title=\"New Arrivals\"><strong>NEW ARRIVALS<\/strong><\/a><\/p>",
+        "content": "<p><a href=\"/collections/new-arrivals\" title=\"New Arrivals\"><strong>NEW ARRIVALS</strong></a></p>",
         "products_count": 4,
         "products_per_row": 4,
         "stack_products": true,
@@ -294,7 +301,7 @@
             "subheading": "",
             "title": "Fishing",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/fishing",
+            "link_url": "shopify://collections/fishing",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -308,7 +315,7 @@
             "subheading": "",
             "title": "OFF GRID",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/off-grid",
+            "link_url": "shopify://collections/off-grid",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -321,7 +328,7 @@
             "subheading": "",
             "title": "BEACH",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/beach",
+            "link_url": "shopify://collections/beach",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -413,7 +420,7 @@
             "subheading": "",
             "title": "Outdoor",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/outdoor",
+            "link_url": "shopify://collections/outdoor",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -427,7 +434,7 @@
             "subheading": "",
             "title": "Explore",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/explore",
+            "link_url": "shopify://collections/explore",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 0
@@ -440,7 +447,7 @@
             "subheading": "",
             "title": "onsite",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/onsite",
+            "link_url": "shopify://collections/onsite",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -513,49 +520,49 @@
         "template--16734565564732__d17bc8a1-90c8-4217-bbe7-2e96411c390c-16667933406823e3e1-0": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/GUV263075-044SIDE_1.jpg",
+            "image": "shopify://shop_images/GUV263075-044SIDE_1.jpg",
             "tab_label": "",
             "subheading": "GILLZ",
             "title": "PRO SERIES Long Sleeve UV",
-            "content": "<p>Featuring GILLZTEC proprietary fabric, this premier long sleeve fishing shirt not only protects you from the sun with UPF 50+ UV-blocking technology, but also offers modified shoulder shaping and no-seam, breathable underarm gussets. With additional benefits, such as 360-degree ventilation and cool-to-touch body fabric, this performance shirt lets you maximize your time outside. <\/p>",
+            "content": "<p>Featuring GILLZTEC proprietary fabric, this premier long sleeve fishing shirt not only protects you from the sun with UPF 50+ UV-blocking technology, but also offers modified shoulder shaping and no-seam, breathable underarm gussets. With additional benefits, such as 360-degree ventilation and cool-to-touch body fabric, this performance shirt lets you maximize your time outside. </p>",
             "button_text": "SHOP ALL",
-            "button_link": "shopify:\/\/collections\/gillz-pro-series"
+            "button_link": "shopify://collections/gillz-pro-series"
           }
         },
         "bb724973-3a48-4ffc-b901-6fa2f8f918b5": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/RUV020144-830_back_2.jpg",
+            "image": "shopify://shop_images/RUV020144-830_back_2.jpg",
             "tab_label": "REEL LIFE",
             "subheading": "REEL LIFE",
             "title": "Jax Beach collection",
-            "content": "<p>The Jax Beach UV Collection is both lightweight and breathable while being incredibly durable. Our Interlock microfiber fabric is double brushed for softness and features mechanical stretch for comfort. Great for fishing on the boat, dock, or beach.<\/p>",
+            "content": "<p>The Jax Beach UV Collection is both lightweight and breathable while being incredibly durable. Our Interlock microfiber fabric is double brushed for softness and features mechanical stretch for comfort. Great for fishing on the boat, dock, or beach.</p>",
             "button_text": "shop all",
-            "button_link": "shopify:\/\/collections\/jax-collection"
+            "button_link": "shopify://collections/jax-collection"
           }
         },
         "12429ac7-f483-45a6-bd06-30d8d6367788": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/DSC-2_2f78848c-900d-4f5a-8161-418dd2077936.jpg",
+            "image": "shopify://shop_images/DSC-2_2f78848c-900d-4f5a-8161-418dd2077936.jpg",
             "tab_label": "",
             "subheading": "FINTECH",
             "title": "OUTERWEAR",
-            "content": "<p>Every day is an adventure into the unknown, an unscripted journey filled with opportunity and potential hazards. Like you, FinTech is always ready to go, whether it’s a weekend getaway or a hard day on the job site. FinTech equips you for success in the harsh elements.<\/p>",
+            "content": "<p>Every day is an adventure into the unknown, an unscripted journey filled with opportunity and potential hazards. Like you, FinTech is always ready to go, whether it’s a weekend getaway or a hard day on the job site. FinTech equips you for success in the harsh elements.</p>",
             "button_text": "SHOP ALL",
-            "button_link": "shopify:\/\/collections\/fintech-outerwear"
+            "button_link": "shopify://collections/fintech-outerwear"
           }
         },
         "c027d0a5-0abd-404e-a276-c8edc220ec28": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/unnamed_59694d58-3c70-4ff0-a18a-708af2b393ef.jpg",
+            "image": "shopify://shop_images/unnamed_59694d58-3c70-4ff0-a18a-708af2b393ef.jpg",
             "tab_label": "",
             "subheading": "MAD PELICAN",
             "title": "ESSENTIAL TEES",
-            "content": "<p>Experience next-level comfort with our Graphic T-Shirts. They feel like butter, are lightweight, and virtually shrink-free, ensuring a soft and hassle-free experience every time. Embrace the ultimate blend of comfort and style today!<\/p>",
+            "content": "<p>Experience next-level comfort with our Graphic T-Shirts. They feel like butter, are lightweight, and virtually shrink-free, ensuring a soft and hassle-free experience every time. Embrace the ultimate blend of comfort and style today!</p>",
             "button_text": "SHOP ALL",
-            "button_link": "shopify:\/\/collections\/mad-pelican"
+            "button_link": "shopify://collections/mad-pelican"
           }
         }
       },
@@ -596,7 +603,7 @@
             "collection": "reel-life-homepage-featured-best-sellers",
             "label": "Reel Life",
             "button_text": "",
-            "button_url": "shopify:\/\/collections\/reel-life-homepage-featured-best-sellers"
+            "button_url": "shopify://collections/reel-life-homepage-featured-best-sellers"
           }
         },
         "31285020-b512-4454-a4fd-75b117b8d97a": {
@@ -631,7 +638,7 @@
       "settings": {
         "subheading": "Shop",
         "title": "",
-        "content": "<p><a href=\"\/collections\/all-best-sellers\" title=\"All Best Sellers\">BEST SELLERS<\/a><\/p>",
+        "content": "<p><a href=\"/collections/all-best-sellers\" title=\"All Best Sellers\">BEST SELLERS</a></p>",
         "products_count": 4,
         "products_per_row": 4,
         "stack_products": true,
@@ -649,11 +656,11 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/Performance_f5db4e62-aa5f-40e6-94c3-eeeeef31baa3.jpg",
+            "image": "shopify://shop_images/Performance_f5db4e62-aa5f-40e6-94c3-eeeeef31baa3.jpg",
             "subheading": "",
             "title": "PERFORMANCE",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/performance",
+            "link_url": "shopify://collections/performance",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -663,11 +670,11 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/SHORTSLEEVES_c7d032ae-d78f-432d-8070-6be1e238a318.jpg",
+            "image": "shopify://shop_images/SHORTSLEEVES_c7d032ae-d78f-432d-8070-6be1e238a318.jpg",
             "subheading": "",
             "title": "SHORT SLEEVES",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/all-shortsleeve",
+            "link_url": "shopify://collections/all-shortsleeve",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -677,11 +684,11 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/LONGSLEEVES_6167a6f6-947a-4c26-b3c2-113c4882dd32.jpg",
+            "image": "shopify://shop_images/LONGSLEEVES_6167a6f6-947a-4c26-b3c2-113c4882dd32.jpg",
             "subheading": "",
             "title": "LONG SLEEVES",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/all-longsleeve",
+            "link_url": "shopify://collections/all-longsleeve",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -691,11 +698,11 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/HOODIES_5461cac3-f01e-4c80-9047-fef173e30f6f.jpg",
+            "image": "shopify://shop_images/HOODIES_5461cac3-f01e-4c80-9047-fef173e30f6f.jpg",
             "subheading": "",
             "title": "HOODIES",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/hoodies",
+            "link_url": "shopify://collections/hoodies",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -705,11 +712,11 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/JACKETS_2893e2ef-a578-4b89-ade1-eea00ee193ff.jpg",
+            "image": "shopify://shop_images/JACKETS_2893e2ef-a578-4b89-ade1-eea00ee193ff.jpg",
             "subheading": "",
             "title": "JACKETS",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/jackets",
+            "link_url": "shopify://collections/jackets",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -719,11 +726,11 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/Walkshorts_Boardshorts_Men_c2b41a90-a2bc-4992-9fd5-6ebea703ac4c.jpg",
+            "image": "shopify://shop_images/Walkshorts_Boardshorts_Men_c2b41a90-a2bc-4992-9fd5-6ebea703ac4c.jpg",
             "subheading": "",
             "title": "SHORTS",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/all-shorts",
+            "link_url": "shopify://collections/all-shorts",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -733,11 +740,11 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/PANTS_11dbf1d6-d691-4cee-93cb-55b6e7515f1d.jpg",
+            "image": "shopify://shop_images/PANTS_11dbf1d6-d691-4cee-93cb-55b6e7515f1d.jpg",
             "subheading": "",
             "title": "PANTS",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/pants",
+            "link_url": "shopify://collections/pants",
             "text_color": "rgba(0,0,0,0)",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -747,11 +754,11 @@
           "type": "collection",
           "settings": {
             "collection": "",
-            "image": "shopify:\/\/shop_images\/ACCESSORIES_76294520-3503-46cd-83c1-1c85f2955ebb.jpg",
+            "image": "shopify://shop_images/ACCESSORIES_76294520-3503-46cd-83c1-1c85f2955ebb.jpg",
             "subheading": "",
             "title": "ACCESSORIES",
             "link_text": "SHOP NOW",
-            "link_url": "shopify:\/\/collections\/accessories",
+            "link_url": "shopify://collections/accessories",
             "text_color": "#ffffff",
             "overlay_color": "#000000",
             "overlay_opacity": 30
@@ -783,9 +790,7 @@
         "17332e53-a3a9-454f-b789-bb3862161c89",
         "9cee48ce-4186-47b0-99c2-ed9d21b62a2d"
       ],
-      "custom_css": [
-
-      ],
+      "custom_css": [],
       "settings": {
         "reveal_on_scroll": false,
         "layout": "collage",
@@ -924,7 +929,7 @@
       "settings": {
         "subheading": "",
         "title": "",
-        "html": "<div class=\"shop-button\"><a href=\"\">SHOP NOW<\/a><\/div>",
+        "html": "<div class=\"shop-button\"><a href=\"\">SHOP NOW</a></div>",
         "add_vertical_spacing": true,
         "background_type": "full_width",
         "background": "rgba(0,0,0,0)",
@@ -999,7 +1004,7 @@
       "settings": {
         "subheading": "SHOP",
         "title": "",
-        "content": "<p><a href=\"\/collections\/performance\" title=\"Performance\">PERFORMANCE<\/a><\/p>",
+        "content": "<p><a href=\"/collections/performance\" title=\"Performance\">PERFORMANCE</a></p>",
         "products_count": 4,
         "products_per_row": 4,
         "stack_products": true,
@@ -1016,13 +1021,13 @@
         "template--16792990679356__b699d1ff-a8be-4570-b5cf-0f32844afaa9-166852981662bb9064-0": {
           "type": "item",
           "settings": {
-            "image": "shopify:\/\/shop_images\/Homepage-sales_CLOSEOUT_SALE.jpg",
+            "image": "shopify://shop_images/Homepage-sales_CLOSEOUT_SALE.jpg",
             "image_width": 100,
             "image_border": "rgba(0,0,0,0)",
             "title": "INVENTORY CLOSEOUT UP TO 50% off ON SELECTED ITEMS",
             "content": "",
             "link_text": "",
-            "link_url": "shopify:\/\/collections\/sale-1",
+            "link_url": "shopify://collections/sale",
             "link_style": "link",
             "text_alignment": "left",
             "vertical_alignment": "start"
@@ -1037,7 +1042,7 @@
             "title": "GEAR UP FOR THE FALL! GET 30% OFF SITEWIDE",
             "content": "",
             "link_text": "",
-            "link_url": "shopify:\/\/collections\/all",
+            "link_url": "shopify://collections/all",
             "link_style": "link",
             "text_alignment": "left",
             "vertical_alignment": "start"
@@ -1052,7 +1057,7 @@
             "title": "BUY ONE GET ONE FREE OF SELECTED FINTECH HOODIES",
             "content": "",
             "link_text": "",
-            "link_url": "shopify:\/\/collections\/bogo-hoodies",
+            "link_url": "shopify://collections/bogo-hoodies",
             "link_style": "link",
             "text_alignment": "left",
             "vertical_alignment": "start"
@@ -1067,7 +1072,7 @@
             "title": "GET 3 LONGSLEEVES FOR $84.99 OR 3 GRAPHIC TEES FOR $59.99",
             "content": "",
             "link_text": "",
-            "link_url": "shopify:\/\/collections\/uv-bundle",
+            "link_url": "shopify://collections/uv-bundle",
             "link_style": "link",
             "text_alignment": "left",
             "vertical_alignment": "start"
@@ -1102,9 +1107,9 @@
           "settings": {
             "label": "THE ANGLER",
             "title": "CAPTAIN MIKE MACKO TWO CONCHS CHARTERS MARATHON, FL",
-            "content": "<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.<\/p>",
+            "content": "<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>",
             "button_text": "learn MORE",
-            "button_link": "shopify:\/\/pages\/the-outdoorsman"
+            "button_link": "shopify://pages/the-outdoorsman"
           }
         },
         "item-2": {
@@ -1112,9 +1117,9 @@
           "settings": {
             "label": "THE BEACH BUM",
             "title": "CAPTAIN Delfos  TWO CONCHS CHARTERS MARATHON, FL",
-            "content": "<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.<\/p>",
+            "content": "<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>",
             "button_text": "LEARN MORE",
-            "button_link": "shopify:\/\/pages\/the-outdoorsman"
+            "button_link": "shopify://pages/the-outdoorsman"
           }
         },
         "item-3": {
@@ -1122,9 +1127,9 @@
           "settings": {
             "label": "THE WORKAHOLIC",
             "title": "THE WORKAHOLIC",
-            "content": "<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.<\/p>",
+            "content": "<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>",
             "button_text": "LEARN MORE",
-            "button_link": "shopify:\/\/pages\/the-outdoorsman"
+            "button_link": "shopify://pages/the-outdoorsman"
           }
         },
         "40933cdd-cf21-49a2-9c8e-7b9d1fd01369": {
@@ -1132,9 +1137,9 @@
           "settings": {
             "label": "THE MADMEN",
             "title": "THE MADMEN",
-            "content": "<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.<\/p>",
+            "content": "<p>It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English.</p>",
             "button_text": "LEARN MORE",
-            "button_link": "shopify:\/\/pages\/the-outdoorsman"
+            "button_link": "shopify://pages/the-outdoorsman"
           }
         }
       },
@@ -1164,7 +1169,7 @@
             "icon": "picto-box",
             "custom_icon_width": 50,
             "title": "Free shipping",
-            "content": "<p>Free U.S. shipping on every order over $75<\/p>"
+            "content": "<p>Free U.S. shipping on every order over $75</p>"
           }
         },
         "template--16792990679356__3b4d2ba3-8d46-4571-b283-95e3c8f5079b-1681833169aac83b16-1": {
@@ -1173,7 +1178,7 @@
             "icon": "picto-phone",
             "custom_icon_width": 50,
             "title": "Customer service",
-            "content": "<p>We are available Monday to Friday to answer your questions at (<a href=\"tel:9044792906\">904)-479-2906<\/a><\/p>"
+            "content": "<p>We are available Monday to Friday to answer your questions at (<a href=\"tel:9044792906\">904)-479-2906</a></p>"
           }
         },
         "template--16792990679356__3b4d2ba3-8d46-4571-b283-95e3c8f5079b-1681833169aac83b16-2": {
@@ -1182,7 +1187,7 @@
             "icon": "picto-lock",
             "custom_icon_width": 50,
             "title": "Secure payment",
-            "content": "<p>Your payment information is processed securely.<\/p>"
+            "content": "<p>Your payment information is processed securely.</p>"
           }
         },
         "template--16792990679356__3b4d2ba3-8d46-4571-b283-95e3c8f5079b-1681833169aac83b16-3": {
@@ -1191,7 +1196,7 @@
             "icon": "picto-email",
             "custom_icon_width": 50,
             "title": "Contact us",
-            "content": "<p>Need to contact us ? Just send us an e-mail at <a href='mailto:info@outdoornation.com'>info@outdoornation.com<\/a><\/p>"
+            "content": "<p>Need to contact us ? Just send us an e-mail at <a href='mailto:info@outdoornation.com'>info@outdoornation.com</a></p>"
           }
         }
       },
@@ -1210,9 +1215,9 @@
       "type": "newsletter",
       "settings": {
         "reveal_on_scroll": true,
-        "image": "shopify:\/\/shop_images\/SUBSCRIBE_banner_1_2.jpg",
+        "image": "shopify://shop_images/SUBSCRIBE_banner_1_2.jpg",
         "subheading": "JOIN THE NATION",
-        "content": "<p>Promotions, new products and sales. <\/p>",
+        "content": "<p>Promotions, new products and sales. </p>",
         "text_position": "left",
         "text_alignment": "left",
         "text_background": "rgba(0,0,0,0)",
